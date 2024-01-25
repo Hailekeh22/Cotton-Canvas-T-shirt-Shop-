@@ -6,6 +6,10 @@
     display: flex;
     justify-content: space-between;
     align-items: center;
+    box-shadow: 0 5px 10px rgba(0, 0, 0, 0.614);
+    z-index: 10;
+    position: sticky;
+    top: 0;
 }
 
 .logo{
@@ -20,7 +24,7 @@
 .cart-container{
     background-color: rgb(0,87,254);
     border-radius: 5rem;
-    padding: 1rem 3rem;
+    padding: .7rem 3rem;
     border: none;
     cursor: pointer;
     outline: none;
@@ -31,7 +35,7 @@
 }
 
 .cart-count{
-    background-color: rgb(220, 234, 19);
+    background-color: rgb(255,192,0);
     padding: .1rem .4rem;
     border-radius: .8rem;
     margin-left: 1rem;
