@@ -3,7 +3,7 @@ import "./Body.css";
 
 function Body() {
   return (
-    <div>
+    <div className="body-container">
       <div className="Tittle-section">
         <h3>Our Products </h3>
       </div>

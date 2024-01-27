@@ -6,6 +6,13 @@
     justify-content: center;
 }
 
+
+.body-container{
+    display: flex;
+    flex-direction: column;
+}
+
+
 .Products-list{
     width: auto;
     height: 100vh;
@@ -41,3 +48,32 @@
 .women-item{
     margin-left: 1rem;
 }
+
+@media (min-width:1900px) {
+
+    .body-container{
+    align-items: center;
+    justify-content: center;
+}
+    .Products-list{
+    width: auto;
+    height: 100vh;
+    width: 1800px;
+    background-color: #fff;
+    box-shadow: 3px 3px 23px 16px rgba(44, 128, 124, 0.34);
+    display: flex;
+    flex-direction: column;
+}
+} 
+
+@media (max-width:750px) {
+    .Item-toogle button{
+        padding: .5rem 2rem;
+    }
+}
+@media (max-width:300px) {
+    .Item-toogle button{
+        padding: .5rem 1rem;
+    }
+}
+
