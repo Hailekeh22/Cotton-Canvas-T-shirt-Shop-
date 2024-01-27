@@ -23,7 +23,7 @@
 }
 
 .cart-container{
-    background-color: rgb(0,87,254);
+    background-color: rgb(12, 82, 213);
     border-radius: 5rem;
     padding: .7rem 3rem;
     border: none;
@@ -33,6 +33,11 @@
     align-items: center;
     color: white;
     justify-content: space-between;
+    transition: .3s ease;
+}
+
+.cart-container:hover{
+    background-color: rgb(9, 43, 107);
 }
 
 .cart-count{
