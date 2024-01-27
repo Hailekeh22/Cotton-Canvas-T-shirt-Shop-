@@ -12,7 +12,9 @@ function Body() {
           <button>Men</button>
           <button className="women-item">Women</button>
         </div>
-        <div className="Item-view">hello</div>
+        <div className="Item-view">
+          <div className="card"></div>
+        </div>
       </div>
     </div>
   );

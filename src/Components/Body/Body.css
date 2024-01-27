@@ -1,6 +1,6 @@
 .Tittle-section{
     width: 100%;
-    height: 5rem;
+    height: 8rem;
     display: flex;
     align-items: center;
     justify-content: center;
@@ -22,6 +22,20 @@
     justify-content: center;
     width: 100%;
     height: 8rem;
+}
+
+.Item-toogle button {
+    outline: none;    
+    border: none;
+    background-color: rgb(241,229,202);
+    padding: 1rem 3rem;
+    cursor: pointer;
+    border-radius: 10px;
+    transition: 0.3s ease-in;
+}
+
+.Item-toogle button:hover{
+    color: blue;
 }
 
 .women-item{
