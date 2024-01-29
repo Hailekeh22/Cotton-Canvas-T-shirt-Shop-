@@ -17,6 +17,7 @@
 
 }
 
+
 .img-item{
     width: 100%;
 }
@@ -35,6 +36,13 @@
     padding: .5rem 0 .5rem 0;
     margin-top: .5rem;
     width: 100%;
+    transition: .3s ease-in;
+}
+
+.addtocart-button:hover{
+    background-color: rgb(241,229,202);
+    color: blue;
+    border: 1px solid blue;
 }
 
 @media (max-width:750px) {
