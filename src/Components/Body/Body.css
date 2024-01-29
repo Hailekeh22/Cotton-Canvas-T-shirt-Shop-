@@ -35,7 +35,7 @@
     outline: none;    
     border: none;
     background-color: rgb(241,229,202);
-    padding: 1rem 3rem;
+    padding: .7rem 3rem;
     cursor: pointer;
     border-radius: 10px;
     transition: 0.3s ease-in;

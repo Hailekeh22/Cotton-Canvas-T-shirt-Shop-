@@ -15,7 +15,7 @@ import P14 from "./Products/F6.jpg";
 import P15 from "./Products/F7.jpg";
 import P16 from "./Products/F8.jpg";
 
-const Allproducts = [
+const Products = [
   {
     id: 1,
     Name: "Mens White Shirt",
@@ -113,3 +113,5 @@ const Allproducts = [
     Price: "80$",
   },
 ];
+
+export default Products;
