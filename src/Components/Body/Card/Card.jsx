@@ -11,13 +11,38 @@ function Card() {
         </div>
         <div className="Card-Content">
           <h3>White Tshirt</h3>
-          <p>
-            Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-            eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim
-            ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut
-            aliquip ex ea commodo consequat.
-          </p>
-          <button>Add to Cart</button>
+          <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit,</p>
+          <button className="addtocart-button">Add to Cart</button>
+        </div>
+      </div>
+      <div className="Card-item">
+        <div className="Card-image">
+          <img className="img-item" src={Img1}></img>
+        </div>
+        <div className="Card-Content">
+          <h3>White Tshirt</h3>
+          <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit,</p>
+          <button className="addtocart-button">Add to Cart</button>
+        </div>
+      </div>
+      <div className="Card-item">
+        <div className="Card-image">
+          <img className="img-item" src={Img1}></img>
+        </div>
+        <div className="Card-Content">
+          <h3>White Tshirt</h3>
+          <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit,</p>
+          <button className="addtocart-button">Add to Cart</button>
+        </div>
+      </div>
+      <div className="Card-item">
+        <div className="Card-image">
+          <img className="img-item" src={Img1}></img>
+        </div>
+        <div className="Card-Content">
+          <h3>White Tshirt</h3>
+          <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit,</p>
+          <button className="addtocart-button">Add to Cart</button>
         </div>
       </div>
     </div>
