@@ -1,7 +1,6 @@
 import React from "react";
 import Card from "./Card/Card";
 import data from "../assets/Products";
-import ShowItem from "./ShowItem.css";
 
 function ShowItems() {
   return (

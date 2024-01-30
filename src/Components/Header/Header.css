@@ -2,7 +2,7 @@
     width: 100%;
     height: auto;
     background-color: rgb(241,229,202);
-    padding: 0 3rem;
+    padding: 0 3.5rem;
     display: flex;
     justify-content: space-between;
     align-items: center;
@@ -13,9 +13,21 @@
     transition: .3s ease;
 }
 
+.logo-container{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.logo-container p{
+    font-family: cursive;
+    font-weight: bolder;
+    color: rgb(14, 78, 197);
+    font-size: 1.7rem;
+}
+
 .logo{
-    width: 8rem;
-    height: 8rem;
+    width: 5rem;
 }
 
 .cart-txt{
@@ -47,6 +59,7 @@
     margin-left: 1rem;
     color: #000;
 }
+
 
 
 @media (max-width:750px) {

@@ -10,6 +10,7 @@ function Header() {
     <div className="Header">
       <div className="logo-container">
         <img className="logo" src={Logo} />
+        <p>Cotton Canvas</p>
       </div>
       <div className="cart">
         <button className="cart-container">
