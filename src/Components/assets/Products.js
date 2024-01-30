@@ -6,14 +6,14 @@ import P5 from "./Products/M5.jpg";
 import P6 from "./Products/M6.jpg";
 import P7 from "./Products/M7.jpg";
 import P8 from "./Products/M8.jpg";
-import P9 from "./Products/F1.jpg";
-import P10 from "./Products/F2.jpg";
-import P11 from "./Products/F3.jpg";
-import P12 from "./Products/F4.jpg";
-import P13 from "./Products/F5.jpg";
-import P14 from "./Products/F6.jpg";
-import P15 from "./Products/F7.jpg";
-import P16 from "./Products/F8.jpg";
+import P9 from "./Products/W1.jpg";
+import P10 from "./Products/W2.jpg";
+import P11 from "./Products/W3.jpg";
+import P12 from "./Products/W4.jpg";
+import P13 from "./Products/W5.jpg";
+import P14 from "./Products/W6.jpg";
+import P15 from "./Products/W7.jpg";
+import P16 from "./Products/W8.jpg";
 
 const Products = [
   {

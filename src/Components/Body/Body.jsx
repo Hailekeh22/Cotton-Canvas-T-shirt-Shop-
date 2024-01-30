@@ -1,6 +1,6 @@
 import React from "react";
 import "./Body.css";
-import Card from "./Card/Card";
+import ShowItems from "./ShowItems";
 
 function Body() {
   return (
@@ -14,8 +14,8 @@ function Body() {
           <button className="women-item">Women</button>
         </div>
         <div className="Item-view">
-          <div className="card">
-            <Card />
+          <div>
+            <ShowItems />
           </div>
         </div>
       </div>
