@@ -40,8 +40,8 @@
 }
 
 .addtocart-button:hover{
-    background-color: rgb(241,229,202);
-    color: blue;
+    background-color: rgb(19, 19, 138);
+    color: #fff;
     border: 1px solid blue;
 }
 

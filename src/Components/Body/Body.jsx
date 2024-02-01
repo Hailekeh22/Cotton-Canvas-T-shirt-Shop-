@@ -3,6 +3,10 @@ import "./Body.css";
 import ShowItems from "./ShowItems";
 
 function Body() {
+  const filtermen = () => {};
+
+  const filterwomen = () => {};
+
   return (
     <div className="body-container">
       <div className="Tittle-section">
@@ -10,8 +14,10 @@ function Body() {
       </div>
       <div className="Products-list">
         <div className="Item-toogle">
-          <button>Men</button>
-          <button className="women-item">Women</button>
+          <button onClick={filtermen}>Men</button>
+          <button className="women-item" onClick={filterwomen}>
+            Women
+          </button>
         </div>
         <div className="Item-view">
           <div>
