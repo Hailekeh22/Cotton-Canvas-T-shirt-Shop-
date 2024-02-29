@@ -6,13 +6,25 @@ function Cart() {
   const [cartItems, setCartItems] = useState([{}]);
 
   return (
-    <>
-      <h2>Cart Items</h2>
-      <div></div>
-      <div>
-        <button>Checkout</button>
+    <div className="cartcontainer">
+      <h2 className="cartheader">Cart Items</h2>
+      <div className="cartitems">
+        <div className="content">hello</div>
+        <div className="quantitycontrol">
+          <p>3</p>
+          <button className="cartbtn">+</button>
+          <button className="cartbtn">-</button>
+        </div>
       </div>
-    </>
+      <div className="cartitems">
+        <div className="content">hello</div>
+        <div className="quantitycontrol">
+          <p>3</p>
+          <button className="cartbtn">+</button>
+          <button className="cartbtn">-</button>
+        </div>
+      </div>
+    </div>
   );
 }
 

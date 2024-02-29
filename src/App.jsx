@@ -4,6 +4,7 @@ import Header from "./Components/Header/Header";
 import Hero from "./Components/Hero/Hero";
 import Body from "./Components/Body/Body";
 import Footer from "./Components/Footer/Footer";
+import Cart from "./Components/Cart/Cart";
 
 function App() {
   return (
@@ -11,6 +12,7 @@ function App() {
       <Header />
       <Hero />
       <Body />
+      <Cart />
       <Footer />
     </>
   );
