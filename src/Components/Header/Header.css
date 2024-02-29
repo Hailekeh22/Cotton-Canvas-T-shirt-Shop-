@@ -77,6 +77,13 @@
         padding: 0 .2rem;
     }
 }
+
+@media (max-width:450px){
+    .logo-container p{
+        display: none;
+    }
+}
+
 @media (max-width:300px) {
     
     .logo{
@@ -89,5 +96,7 @@
     .cart-count{
         padding: 0 .1rem;
     }
+
+    
 }
 
