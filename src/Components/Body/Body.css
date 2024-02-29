@@ -84,5 +84,8 @@
     .Item-toogle button{
         padding: .5rem 1rem;
     }
+    .Item-toogle{
+        height: 3.5rem;
+    }
 }
 

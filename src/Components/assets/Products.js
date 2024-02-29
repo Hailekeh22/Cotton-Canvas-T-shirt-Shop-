@@ -98,7 +98,7 @@ const Products = [
   },
   {
     id: 11,
-    Name: "ModernMademoiselle Top",
+    Name: "ModernMoiselle Top",
     image: P11,
     info: "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
     for: "Women",
