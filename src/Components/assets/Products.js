@@ -18,7 +18,7 @@ import P16 from "./Products/W8.jpg";
 const Products = [
   {
     id: 1,
-    Name: "Mens White Shirt",
+    Name: "UrbanBlend Shirt",
     image: P1,
     info: "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
     for: "Men",
@@ -26,7 +26,7 @@ const Products = [
   },
   {
     id: 2,
-    Name: "Mens White Shirt",
+    Name: "StreetStyle T-shirt",
     image: P2,
     info: "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
     for: "Men",
@@ -34,7 +34,7 @@ const Products = [
   },
   {
     id: 3,
-    Name: "Mens White Shirt",
+    Name: "ActiveFlex Top",
     image: P3,
     info: "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
     for: "Men",
@@ -42,7 +42,7 @@ const Products = [
   },
   {
     id: 4,
-    Name: "Mens White Shirt",
+    Name: "ModernFit Shirt",
     image: P4,
     info: "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
     for: "Men",
@@ -50,7 +50,7 @@ const Products = [
   },
   {
     id: 5,
-    Name: "Mens White Shirt",
+    Name: "AdventureTech Shirt",
     image: P5,
     info: "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
     for: "Men",
@@ -58,7 +58,7 @@ const Products = [
   },
   {
     id: 6,
-    Name: "Mens White Shirt",
+    Name: "PerformancePro Top",
     image: P6,
     info: "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
     for: "Men",
@@ -66,7 +66,7 @@ const Products = [
   },
   {
     id: 7,
-    Name: "Mens White Shirt",
+    Name: "VintageVibe Shirt",
     image: P7,
     info: "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
     for: "Men",
@@ -74,7 +74,7 @@ const Products = [
   },
   {
     id: 8,
-    Name: "Mens White Shirt",
+    Name: "RetroWave T-shirt",
     image: P8,
     info: "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
     for: "Men",
@@ -82,7 +82,7 @@ const Products = [
   },
   {
     id: 9,
-    Name: "Womens White Shirt",
+    Name: "TrendyTexture Top",
     image: P9,
     info: "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
     for: "Women",
@@ -90,7 +90,7 @@ const Products = [
   },
   {
     id: 10,
-    Name: "Womens White Shirt",
+    Name: "VersatileVogue Shirt",
     image: P10,
     info: "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
     for: "Women",
@@ -98,7 +98,7 @@ const Products = [
   },
   {
     id: 11,
-    Name: "Womens White Shirt",
+    Name: "ModernMademoiselle Top",
     image: P11,
     info: "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
     for: "Women",
@@ -106,7 +106,7 @@ const Products = [
   },
   {
     id: 12,
-    Name: "Womens White Shirt",
+    Name: "FeminineFusion Top",
     image: P12,
     info: "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
     for: "Women",
@@ -114,7 +114,7 @@ const Products = [
   },
   {
     id: 13,
-    Name: "Womens White Shirt",
+    Name: "FlowyFlair Tee",
     image: P13,
     info: "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
     for: "Women",
@@ -122,7 +122,7 @@ const Products = [
   },
   {
     id: 14,
-    Name: "Womens White Shirt",
+    Name: "CasualCouture Top",
     image: P14,
     info: "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
     for: "Women",
@@ -130,7 +130,7 @@ const Products = [
   },
   {
     id: 15,
-    Name: "Womens White Shirt",
+    Name: "FemmeFit Tee",
     image: P15,
     info: "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
     for: "Women",
@@ -138,7 +138,7 @@ const Products = [
   },
   {
     id: 16,
-    Name: "Womens White Shirt",
+    Name: "BohoChic Top",
     image: P16,
     info: "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
     for: "Women",
